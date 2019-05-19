@@ -1,0 +1,19 @@
+{
+  "name": "slot-trot",
+  "version": "0.0.0",
+  "description": "TBD",
+  "main": "slot-trot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahrus/slot-trot.git"
+  },
+  "author": "anderson.bruce.b@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bahrus/slot-trot/issues"
+  },
+  "homepage": "https://github.com/bahrus/slot-trot#readme"
+}
